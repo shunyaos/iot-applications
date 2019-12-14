@@ -5,6 +5,7 @@ project. And you are free to use any boards that we support.
 
 1. [List of sensors](https://docs.google.com/spreadsheets/d/1EGli--jQHnjzumjDQ7cRg3Z932o9N0ma3w4p0H5lrdA/edit#gid=0) 
 2. [List of all dev boards](https://docs.google.com/spreadsheets/d/1EGli--jQHnjzumjDQ7cRg3Z932o9N0ma3w4p0H5lrdA/edit#gid=1348085202)
+
 that we have in our office. 
 
 >Note: Opening these links on mobile then change the sheet respectively to view the correct list. 
@@ -36,7 +37,9 @@ Check the status of the porting [here](https://docs.google.com/spreadsheets/d/1E
 
 That is it! Done. You have completed Step 2.
 
-Checkout the Next step --> Make .
+Checkout the Next step --> [Make](Step3.md).
+
+----
 
 Umm.. I have some questions about ... 
 
