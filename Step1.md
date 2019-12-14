@@ -13,6 +13,9 @@ That is it! Done. You have completed Step 1.
 
 Checkout the Next step --> [Choose sensors and boards](Step2.md) .
 
+
+----
+
 Umm.. I have some questions about ... 
 
 For questions checkout our [FAQ](faq.md).
