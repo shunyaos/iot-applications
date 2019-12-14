@@ -3,6 +3,9 @@
 **Question** : 
 > **Answer** :  
 
-Umm.. I have some questions about ... 
 
-For questions checkout our [FAQ](faq.md).
+----
+
+Umm.. I still have some questions which were not answered here ... 
+
+Then create an issue in this project and tag it help wanted.
