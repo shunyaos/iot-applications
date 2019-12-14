@@ -2,6 +2,12 @@
 
 **Goal** : To create cool, interesting, amazing IoT applications/projects/products and showcase it to the world by blogging, creating videos and enrolling it into contests. 
 
+**Pre-requisites** :
+1. Team player 
+2. Knows how to use Linux
+3. Knows Basic C
+4. Passion to create an amazing IoT application.
+
 # Steps to complete 
 
 1. [Choose any application/project/product](Step1.md)
