@@ -1,4 +1,4 @@
-# IoT Applications Developer 
+# IoT Applications Developer Internship
 
 **Goal** : To create cool, interesting, amazing IoT applications/projects/products and showcase it to the world by blogging, creating videos and enrolling it into contests. 
 
