@@ -13,6 +13,13 @@ Now that you have all your raw materials ready, its time to execute.
 3. Document these Tasks inside the issue created in [Step1](Step1.md).
 
 
+## Resources to Execute 
+1. Shunya Interfaces Docs and API - [Link](https://shunyaos.github.io/Shunya-Interfaces/)
+1. Send SMS and Alerts - [Link]()
+1. Create Dashboard using Grafana - [Link]()
+1. Create Dashboard using ThingsBoard [Link]()
+
+
 That is it! Done. You have completed Step 3.
 
 Checkout the Next step --> [Show it to the world](Step4.md) .
