@@ -8,7 +8,7 @@
 3. Knows Basic C
 4. Passion to create an amazing IoT application.
 
-# Steps to complete 
+## Create IoT Application in 4 steps  
 
 1. [Choose any application/project/product](Step1.md)
 2. [Choose sensors & Choose boards](Step2.md)
